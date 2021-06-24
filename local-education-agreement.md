@@ -1,7 +1,7 @@
 ```
 THIS AGREEMENT made and entered into this \_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_, 20\_\_ shall be effective from the 1st day of \_\_\_\_\_\_\_\_\_20\_\_\_.
 
-
+<div style="text-align: center">
 
 BETWEEN:
 
@@ -19,7 +19,7 @@ AND:
 
 (collectively called the "Parties")
 
-
+</div>
 
 **WHEREAS** On July 1, 2018, the Province of British Columbia, the Government of Canada and the Nations Education Steering Committee entered into the BC Tripartite Education Agreement ("BCTEA"), agreeing to work together to make systemic shifts to support successful educational outcomes of all Nation Students, regardless of where they live or are enrolled in school in British Columbia, through the provision of high quality and culturally relevant elementary and secondary educational programs and services, and supported by funding that is responsive to unique needs of Nation Students, Nation Schools and communities;
 
@@ -220,7 +220,7 @@ c. any other proposed or intended use requires written consent from the Nation.
 
 # 7. SPECIAL EDUCATION ASSESSMENT AND PLACEMENT
 
-## {{< highlight >}}7.1. The Parties agree that special education assessment and placement of, or timetable changes or new timetables for, Nation Students will follow the School District referral process, and the Ministry of Education, Special Education Services: A Manual of Policies, Procedures and Guidelines, as amended from time to time.{{< endhighlight >}}
+## <mark>7.1. The Parties agree that special education assessment and placement of, or timetable changes or new timetables for, Nation Students will follow the School District referral process, and the Ministry of Education, Special Education Services: A Manual of Policies, Procedures and Guidelines, as amended from time to time.
 
 ## 7.2. For greater clarity:
 
@@ -583,19 +583,19 @@ b. this Agreement is without prejudice to the rights of the Parties and the Nati
 **SIGNED on behalf of the NATION by its duly authorized Officers**
 
 
-{{< signature "Chief" >}}
+signature chief
 
 in the presence of:
 
-{{< signature "Witness" >}}
+signature "Witness"
 
 **SIGNED on behalf of the BOARD OF EDUCATION**
 
-{{< signature "Chairperson – Board of Trustees" >}}
+signature "Chairperson – Board of Trustees"
 
-{{< signature "Secretary Treasurer SD #___" >}}
+signature "Secretary Treasurer SD #___"
 
-{{< signature "Witness" >}}
+signature "Witness"
 
 # APPENDIX A: DEFINITIONS
 
