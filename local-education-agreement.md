@@ -1,4 +1,3 @@
-```
 THIS AGREEMENT made and entered into this \_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_, 20\_\_ shall be effective from the 1st day of \_\_\_\_\_\_\_\_\_20\_\_\_.
 
 <div style="text-align: center">
