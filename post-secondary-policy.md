@@ -1,6 +1,6 @@
 ## 1. VISION STATEMENT
 
-The education of the MN people is the foundation of a strong and healthy community.
+The education of the Malahat Nation's people is the foundation of a strong and healthy community.
 
 ## 2. INTRODUCTION
 
