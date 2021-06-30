@@ -2,7 +2,7 @@
 | --- | --- |
 | **BCR#** |  |
 | **Effective Date:** | Month, DD, YYYY |
-
+ 
 ## 1. Policy
 
 While the overall responsibility for financial management of the Malahat Nation remains with the Council, it is Council&#39;s policy to give specific financial administration authority to identified departments, committees and individuals for the purpose of performing duties, making commitments, and authorizing the collection and disbursement of funds on behalf of the Malahat Nation.
