@@ -1,7 +1,3 @@
-**MALAHAT NATION**
-
-**LAND CODE**
-
 Dated for Reference October 16, 2014
 
 In accordance with
@@ -10,19 +6,19 @@ The Framework Agreement on First Nations Land Management
 
 ## PREAMBLE
 
-Whereas the people of Malahat Nation have a profound relationship with the land and its resources since time immemorial;
+**Whereas** the people of Malahat Nation have a profound relationship with the land and its resources since time immemorial;
 
-Whereas the Council of Malahat Nation, as the elected government of Malahat Nation, has the jurisdiction and responsibility for land and resource laws of Malahat Nation;
+**Whereas** the Council of Malahat Nation, as the elected government of Malahat Nation, has the jurisdiction and responsibility for land and resource laws of Malahat Nation;
 
-Whereas the Council of Malahat Nation is committed to providing dependable and efficient land management services to the Members of Malahat Nation;
+**Whereas** the Council of Malahat Nation is committed to providing dependable and efficient land management services to the Members of Malahat Nation;
 
-Whereas Malahat Nation traditions and cultural beliefs are the driving force of our success and destiny;
+**Whereas** Malahat Nation traditions and cultural beliefs are the driving force of our success and destiny;
 
-Whereas Malahat Members hold and exercise their aboriginal rights and title for their own benefit and for the benefit of future generations;
+**Whereas** Malahat Members hold and exercise their aboriginal rights and title for their own benefit and for the benefit of future generations;
 
-Whereas Malahat Nation has entered into the *Framework Agreement on FirstNation Land Management*, as amended, and which was ratified on behalf of the Government of Canada by the *First Nations Land Management Act*; and
+**Whereas** Malahat Nation has entered into the *Framework Agreement on FirstNation Land Management*, as amended, and which was ratified on behalf of the Government of Canada by the *First Nations Land Management Act*; and
 
-Whereas Malahat Nation wishes to manage its lands and resources on Malahat Nation reserve lands, rather than having its lands and resources managed on its behalf under the *Indian Act*;
+**Whereas** Malahat Nation wishes to manage its lands and resources on Malahat Nation reserve lands, rather than having its lands and resources managed on its behalf under the *Indian Act*;
 
 **NOW THEREFORE, THIS LAND CODEIS HEREBY ENACTED AS THE FUNDAMENTAL LAND LAW OF MALAHAT NATION.**
 
@@ -36,19 +32,19 @@ Whereas Malahat Nation wishes to manage its lands and resources on Malahat Natio
 
 2.1 The following definitions apply in this Land Code:
 
-"Act" means the *First Nations Land Management Act*, S.C. 1999, c.24;
+"**Act**" means the *First Nations Land Management Act*, S.C. 1999, c.24;
 
-"Allocation" means an Interest that entitles a Member to use and occupy a parcel or area of Malahat Nation Lands under this Land Code exclusively for residential purposes and only for the period of time during which the Member, or the Member's heirs or beneficiaries, use the land for residential purposes, after which the Interest is cancelled;
+"**Allocation**" means an Interest that entitles a Member to use and occupy a parcel or area of Malahat Nation Lands under this Land Code exclusively for residential purposes and only for the period of time during which the Member, or the Member's heirs or beneficiaries, use the land for residential purposes, after which the Interest is cancelled;
 
-"Arbitrator" means a Person who:
+"**Arbitrator**" means a Person who:
 
 a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
 
 b. has been designated as an acceptable Arbitrator in accordance with section 44.1 of the Framework Agreement;
 
-"Certificate of Possession" means an exclusive right of possession to a parcel of Malahat Nation Lands allotted to a Member in accordance with section 20(1) or section 20(3) of the *Indian Act* prior to the enactment of this Land Code;
+"**Certificate of Possession**" means an exclusive right of possession to a parcel of Malahat Nation Lands allotted to a Member in accordance with section 20(1) or section 20(3) of the *Indian Act* prior to the enactment of this Land Code;
 
-"Child" means:
+"**Child**" means:
 
 a. a biological child,
 
@@ -60,93 +56,93 @@ d. a foster child, or
 
 e. a child over whom a Person has guardian ship;
 
-"Community Land" means any Malahat Nation Lands in which all Members have a common interest, and which is not subject to an Allocation or a Certificate of Possession;
+"**Community Land**" means any Malahat Nation Lands in which all Members have a common interest, and which is not subject to an Allocation or a Certificate of Possession;
 
-"Council" means the Chief and Council of Malahat Nation;
+"**Council**" means the Chief and Council of Malahat Nation;
 
-"Easement" means a non-exclusive interest in Malahat Nation Lands giving the "grantee" the right to use the land of another (the "grantor") for a right of way or to provide utility or other services to the land of the grantee, and which is limited to only such interest as is necessary to give effect to the Easement granted;
+"**Easement**" means a non-exclusive interest in Malahat Nation Lands giving the "grantee" the right to use the land of another (the "grantor") for a right of way or to provide utility or other services to the land of the grantee, and which is limited to only such interest as is necessary to give effect to the Easement granted;
 
-"Eligible Voter" means a Member who, as of the date of the Ratification Vote or other vote provided for in this Land Code, has attained the ag of 18 years;
+"**Eligible Voter**" means a Member who, as of the date of the Ratification Vote or other vote provided for in this Land Code, has attained the ag of 18 years;
 
-"Environmentally Sensitive Property" means an area of natural and scientific interest (life science or earth science) identified by Malahat Nation or its representatives;
+"**Environmentally Sensitive Property**" means an area of natural and scientific interest (life science or earth science) identified by Malahat Nation or its representatives;
 
-"Expropriation" means a taking of an Interest or all Interests in portions of the Malahat Nation Lands for community purposes through a process established by a Law, in accordance with PART 6: EXPROPRIATION AND PROTECTION OF LAND;
+"**Expropriation**" means a taking of an Interest or all Interests in portions of the Malahat Nation Lands for community purposes through a process established by a Law, in accordance with PART 6: EXPROPRIATION AND PROTECTION OF LAND;
 
-"First Nations Land Registry" means the register maintained by the Department of Indian Affairs and Northern Development under clause 51 of the Framework Agreement;
+"**First Nations Land Registry**" means the register maintained by the Department of Indian Affairs and Northern Development under clause 51 of the Framework Agreement;
 
-"Framework Agreement" means the *Framework Agreement on First Nation Land Management* entered into between Canada and the Chiefs of 14 First Nations on February 12, 1996, as amended;
+"**Framework Agreement**" means the *Framework Agreement on First Nation Land Management* entered into between Canada and the Chiefs of 14 First Nations on February 12, 1996, as amended;
 
-"Heritage Site" means a site on Malahat Nation Lands that is of particular cultural, historical, archaeological,anthropological or spiritual importance to Malahat Nation and the Members;
+"**Heritage Site**" means a site on Malahat Nation Lands that is of particular cultural, historical, archaeological,anthropological or spiritual importance to Malahat Nation and the Members;
 
-"Immediate Family", in respect of a·Person, means the Person's Spouse, parent(s), grandparent(s), siblings, child(ren), grandchild(ren) and any relative permanently residing with a Person.
+"**Immediate Family**", in respect of a·Person, means the Person's Spouse, parent(s), grandparent(s), siblings, child(ren), grandchild(ren) and any relative permanently residing with a Person.
 
-"*Indian Act*" means the *Indian Act*, R.S.C. 1985, c.I-5;
+"***Indian Act***" means the *Indian Act*, R.S.C. 1985, c.I-5;
 
-"Individual Agreement" means the Individual First Nation Agreement made between Malahat Nation and Her Majesty in Right of Canada in accordance with clause 6.1 of the Framework Agreement;
+"**Individual Agreement**" means the Individual First Nation Agreement made between Malahat Nation and Her Majesty in Right of Canada in accordance with clause 6.1 of the Framework Agreement;
 
-"Interest" means any interest, right or estate of any nature in or to Malahat Nation Lands including an Allocation,Certificate of Possession, Lease, Easement, Mortgage, right of way or Permit, but does not include title to that land;
+"**Interest**" means any interest, right or estate of any nature in or to Malahat Nation Lands including an Allocation,Certificate of Possession, Lease, Easement, Mortgage, right of way or Permit, but does not include title to that land;
 
-"Land Code" means this *Malahat Nation Land Code*;
+"**Land Code**" means this *Malahat Nation Land Code*;
 
-"Land Use Plan" means a plan addressing housing, transportation, parks, economic development, infrastructure, social, cultural, environmental and other needs in the use and development of Malahat Nation Lands;
+"**Land Use Plan**" means a plan addressing housing, transportation, parks, economic development, infrastructure, social, cultural, environmental and other needs in the use and development of Malahat Nation Lands;
 
-"Lands Management Advisory Committee" means the Lands Management Advisory Committee established under Section 9.0;
+"**Lands Management Advisory Committee** means the Lands Management Advisory Committee established under Section 9.0;
 
-"Lands Department" means the department established under PART 2: LAND ADMINISTRATION of this Land Code;
+"**Lands Department**" means the department established under PART 2: LAND ADMINISTRATION of this Land Code;
 
-"Lands Manager" means the Person who is responsible for the day-to-day administration of the Lands Department;
+"**Lands Manager**" means the Person who is responsible for the day-to-day administration of the Lands Department;
 
-"Law" means a law or regulation enacted under this Land Code but does not include a Resolution;
+"**Law**" means a law or regulation enacted under this Land Code but does not include a Resolution;
 
-"Lease" means a Written Instrument granting a Leasehold Interest;
+"**Lease**" means a Written Instrument granting a Leasehold Interest;
 
-"Leasehold Interest" means an Interest in Malahat Nation Lands granted under this Land Code or, prior to the date of this Land Code, under the *Indian Act*, including a Sublease, that grants a Person the exclusive right of use and possession of the lands, upon agreed conditions, for a specified time, which time includes any renewal or extension period;
+"**Leasehold Interest**" means an Interest in Malahat Nation Lands granted under this Land Code or, prior to the date of this Land Code, under the *Indian Act*, including a Sublease, that grants a Person the exclusive right of use and possession of the lands, upon agreed conditions, for a specified time, which time includes any renewal or extension period;
 
-"License" in relation to Malahat Nation Lands, means any right of use or occupation of Malahat Nation Lands other than an Interest in that land;
+"**License**" in relation to Malahat Nation Lands, means any right of use or occupation of Malahat Nation Lands other than an Interest in that land;
 
-"Mediator" means a Person who:
+"**Mediator**" means a Person who:
 
 a. is a practicing member in good standing of the British Columbia Mediator Roster Society, its successor, or a similar body,or
 
 b. has been designated as an acceptable mediator in accordance with section 44.1 of the Framework Agreement;
 
-"Meeting of Members" means a meeting under sections 18.0 and 19.0 to which the Members are invited;
+"**Meeting of Members**" means a meeting under sections 18.0 and 19.0 to which the Members are invited;
 
-"Member" means a Person whose name appears or is entitled to appear on the Malahat Nation Band Membership List;
+"**Member**" means a Person whose name appears or is entitled to appear on the Malahat Nation Band Membership List;
 
-"Mortgage" means a charge on an Interest in Malahat Nation Lands in favor of another as security for a debt;
+"**Mortgage**" means a charge on an Interest in Malahat Nation Lands in favor of another as security for a debt;
 
-"Malahat Nation" means a band within the meaning of subsection 2(1) of the *Indian Act*;
+"**Malahat Nation**" means a band within the meaning of subsection 2(1) of the *Indian Act*;
 
-"Malahat Nation Lands" means any reserve or portion thereof that is subject to this Land Code;
+"**Malahat Nation Lands**" means any reserve or portion thereof that is subject to this Land Code;
 
-"Malahat Nation Law Registry" means the register which contains a copy of all Laws, by-laws,Resolutions and other enactments of Malahat Nation;
+"**Malahat Nation Law Registry**" means the register which contains a copy of all Laws, by-laws,Resolutions and other enactments of Malahat Nation;
 
-"Community Ratification Process" means the *Malahat Nation Community Ratification Process* used to ratify this Land Code;
+"**Community Ratification Process**" means the *Malahat Nation Community Ratification Process* used to ratify this Land Code;
 
-"Nation Manager" means the employee appointed by Council to manage the day-to-day activities of Malahat Nation;
+"**Nation Manager**" means the employee appointed by Council to manage the day-to-day activities of Malahat Nation;
 
-"Natural Resources" means any materials or substances on, under or in Malahat Nation Lands which, when removed, havee conomic or other value;
+"**Natural Resources**" means any materials or substances on, under or in Malahat Nation Lands which, when removed, havee conomic or other value;
 
-"Permit" means an Interest in a specified area of Malahat Nation Lands other than a Lease, Easement or License, that gives a Person the right to non-exclusive use of a specified area of Malahat Nation Lands for a specified purpose;
+"**Permit**" means an Interest in a specified area of Malahat Nation Lands other than a Lease, Easement or License, that gives a Person the right to non-exclusive use of a specified area of Malahat Nation Lands for a specified purpose;
 
-"Person" includes a partnership,syndicate, association,corporation,society and the personal or other legal representatives of a Person;
+"**Person**" includes a partnership,syndicate, association,corporation,society and the personal or other legal representatives of a Person;
 
-"Ratification Vote" means a vote carried out in relation to this Land Code in a manner consistent with PART 4: MEMBER INPUT AND APPROVALS;
+"**Ratification Vote**" means a vote carried out in relation to this Land Code in a manner consistent with PART 4: MEMBER INPUT AND APPROVALS;
 
-"Registered Voter" means an Eligible Voter who has registered to vote in accordance with the Malahat Nation Community Ratification Process;
+"**Registered Voter**" means an Eligible Voter who has registered to vote in accordance with the Malahat Nation Community Ratification Process;
 
-"Residential Use" means use of an Allocation or Certificate of Possession by a Member, as a principal residence, and does not include use of land or buildings for renting out, or industrial, commercial or other uses except in accordance with Malahat Nation Laws,including Laws for home-based businesses;
+"**Residential Use**" means use of an Allocation or Certificate of Possession by a Member, as a principal residence, and does not include use of land or buildings for renting out, or industrial, commercial or other uses except in accordance with Malahat Nation Laws,including Laws for home-based businesses;
 
-"Resolution" means a written resolution in relation to Malahat Nation Lands passed by a majority of Council at a duly convened Council meeting;
+"**Resolution**" means a written resolution in relation to Malahat Nation Lands passed by a majority of Council at a duly convened Council meeting;
 
-"Spouse" means either of two (2) persons who are married to each other, or who have lived with each other in a marriage-like relationship for a period of at least two (2) years and includes persons of the same gender;
+"**Spouse**" means either of two (2) persons who are married to each other, or who have lived with each other in a marriage-like relationship for a period of at least two (2) years and includes persons of the same gender;
 
-"Sublease" means a Leasehold Interest in which the Person transferring the Interest is the holder of a Lease;
+"**Sublease**" means a Leasehold Interest in which the Person transferring the Interest is the holder of a Lease;
 
-"Verifier" means a Person appointed to monitor and verify the process of Malahat Nation opting in to the Act,in accordance with section 8.1 of the Framework Agreement; and
+"**Verifier**" means a Person appointed to monitor and verify the process of Malahat Nation opting in to the Act,in accordance with section 8.1 of the Framework Agreement; and
 
-"Written Instrument" means a written document, in the form approved by the Lands Manager, which purports to create, grant, assign or transfer an Interest or License in Malahat Nation Lands or charge Malahat Nation Lands.
+"**Written Instrument**" means a written document, in the form approved by the Lands Manager, which purports to create, grant, assign or transfer an Interest or License in Malahat Nation Lands or charge Malahat Nation Lands.
 
 2.2 This Land Code shall be interpreted in a fair, large and liberal manner.
 
