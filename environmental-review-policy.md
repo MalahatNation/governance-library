@@ -1,8 +1,3 @@
-| **Policy#** | SPP-xx |
-| --- | --- |
-| **BCR#** |  |
-| **Effective Date:** | Month, DD, YYYY |
-
 ## 1. Policy
 
 It is Council's policy that all appropriate protective measures be taken to protect the lands of Malahat Nation
@@ -162,37 +157,37 @@ Lands Department Review
 
 ## APPENDIX A
 
-### PROJECT EXEMPTION LIST TO ENVIRONMENTAL REVIEW REQUIREMENTS:
+*PROJECT EXEMPTION LIST TO ENVIRONMENTAL REVIEW REQUIREMENTS:*
 
 1. The Malahat Nation Council is of the opinion that the carrying out of a project that meets the following criteria will not cause significant adverse environmental effects:
 
-  1. Administrative actions that will not, or do not affect Malahat lands or resources (i.e., transfer or extension of a lease, permit or other interest that will not result in any physical changes to a previously approved project or activity occurring on the land);
+2. Administrative actions that will not, or do not affect Malahat lands or resources (i.e., transfer or extension of a lease, permit or other interest that will not result in any physical changes to a previously approved project or activity occurring on the land);
 
-  1. Emergency repairs or actions needed on an urgent basis to avoid or respond to emergencies;
+3. Emergency repairs or actions needed on an urgent basis to avoid or respond to emergencies;
 
-  1. Responses to accidents or threats to public health;
+4. Responses to accidents or threats to public health;
 
-  1. Projects that fall under [&quot;SCHEDULE 1&quot; of the Designated Classes of Projects Order](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2019-323/FullText.html) of the _Impact Assessment Act,_ SC 2019, c 28, s 1 and as set out below.
+5. Projects that fall under [&quot;SCHEDULE 1&quot; of the Designated Classes of Projects Order](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2019-323/FullText.html) of the _Impact Assessment Act,_ SC 2019, c 28, s 1 and as set out below.
 
-1. The exemption list below does not include projects:
-  1. that cause a change to
-    1. any characteristic of a water body,
-    2. _migratory birds_ or _nests_, as defined in subsection 2(1) of the [_Migratory Birds Convention Act, 1994_](https://laws-lois.justice.gc.ca/eng/acts/M-7.01),
-    3. _wildlife species_, as defined in subsection 2(1) of the [_Species at Risk Act_](https://laws-lois.justice.gc.ca/eng/acts/S-15.3) that are listed in Schedule 1 of that Act, or
-    4. _residences_ or _critical habitats_, as defined in subsection 2(1) of the [_Species at Risk Act_](https://laws-lois.justice.gc.ca/eng/acts/S-15.3), of wildlife species referred to in subparagraph (iii);
-  2. that involve an activity referred to in subsection 5(1) of the [_Canadian Navigable Waters Act_](https://laws-lois.justice.gc.ca/eng/acts/N-22), subsection 35(1) or 36(3) of the [_Fisheries Act_](https://laws-lois.justice.gc.ca/eng/acts/F-14), or subsection 3(1) of the [_Wildlife Area Regulations_](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1609)
-  3. that involve the removal of any structure or resource that is of historical, archaeological, paleontological or architectural significance; or
-  4. that cause damage to any structure, resource or site that is of historical, archaeological, paleontological or architectural significance.
+6. The exemption list below does not include projects:
+   >a. that cause a change to
+        >>i. any characteristic of a water body,
+        >>ii. _migratory birds_ or _nests_, as defined in subsection 2(1) of the [_Migratory Birds Convention Act, 1994_](https://laws-lois.justice.gc.ca/eng/acts/M-7.01),
+        >>iii. _wildlife species_, as defined in subsection 2(1) of the [_Species at Risk Act_](https://laws-lois.justice.gc.ca/eng/acts/S-15.3) that are listed in Schedule 1 of that Act, or
+        >>iv. _residences_ or _critical habitats_, as defined in subsection 2(1) of the [_Species at Risk Act_](https://laws-lois.justice.gc.ca/eng/acts/S-15.3), of wildlife species referred to in subparagraph (iii);
+  >b. that involve an activity referred to in subsection 5(1) of the [_Canadian Navigable Waters Act_](https://laws-lois.justice.gc.ca/eng/acts/N-22), subsection 35(1) or 36(3) of the [_Fisheries Act_](https://laws-lois.justice.gc.ca/eng/acts/F-14), or subsection 3(1) of the [_Wildlife Area Regulations_](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1609)
+  >c. that involve the removal of any structure or resource that is of historical, archaeological, paleontological or architectural significance; or
+  >d. that cause damage to any structure, resource or site that is of historical, archaeological, paleontological or architectural significance.
 
-SCHEDULE 1:
+*SCHEDULE 1:*
 
 PART 1: General
 
-1 The operation, maintenance or repair of a physical work.
+1. The operation, maintenance or repair of a physical work.
 
-2 Physical activities that are carried out entirely within the interior of a building.
+2. Physical activities that are carried out entirely within the interior of a building.
 
-3 (1) The construction or operation of a well to conduct geotechnical or environmental investigations of the subsurface characteristics of a site for the purpose of scientific research or of assessing or monitoring the site for contamination.
+3. (1) The construction or operation of a well to conduct geotechnical or environmental investigations of the subsurface characteristics of a site for the purpose of scientific research or of assessing or monitoring the site for contamination.
 
 (2) The decommissioning of a well that was used to conduct a geotechnical or environmental investigation referred to in subsection (1).
 
