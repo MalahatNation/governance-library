@@ -38,7 +38,7 @@ The Framework Agreement on First Nations Land Management
 
 "**Arbitrator**" means a Person who:
 
->>a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
+>a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
 
 >b. has been designated as an acceptable Arbitrator in accordance with section 44.1 of the Framework Agreement;
 
@@ -46,15 +46,15 @@ The Framework Agreement on First Nations Land Management
 
 "**Child**" means:
 
-a. a biological child,
+>a. a biological child,
 
-b. an adopted child, whether by law or by custom,
+>b. an adopted child, whether by law or by custom,
 
-c. a step child,
+>c. a step child,
 
-d. a foster child, or
+>d. a foster child, or
 
-e. a child over whom a Person has guardian ship;
+>e. a child over whom a Person has guardian ship;
 
 "**Community Land**" means any Malahat Nation Lands in which all Members have a common interest, and which is not subject to an Allocation or a Certificate of Possession;
 
@@ -102,9 +102,9 @@ e. a child over whom a Person has guardian ship;
 
 "**Mediator**" means a Person who:
 
-a. is a practicing member in good standing of the British Columbia Mediator Roster Society, its successor, or a similar body,or
+>a. is a practicing member in good standing of the British Columbia Mediator Roster Society, its successor, or a similar body,or
 
-b. has been designated as an acceptable mediator in accordance with section 44.1 of the Framework Agreement;
+>b. has been designated as an acceptable mediator in accordance with section 44.1 of the Framework Agreement;
 
 "**Meeting of Members**" means a meeting under sections 18.0 and 19.0 to which the Members are invited;
 
@@ -148,23 +148,23 @@ b. has been designated as an acceptable mediator in accordance with section 44.1
 
 2.3 A reference to "land" in this Land Code means and includes all rights and resources that belong to the land, and includes:
 
-a. the water, beds underlying water, the foreshore to the high watermark, aquifers, and riparian rights;
+>a. the water, beds underlying water, the foreshore to the high watermark, aquifers, and riparian rights;
 
-b. minerals, subsurface resources and all renewable and non-renewable Natural Resources belonging to that land, to the extent that these are under the jurisdiction of Canada or Malahat Nation; and
+>b. minerals, subsurface resources and all renewable and non-renewable Natural Resources belonging to that land, to the extent that these are under the jurisdiction of Canada or Malahat Nation; and
 
-c. all the Interests granted to Malahat Nation by Her Majesty the Queen in Right of Canada listed in the Individual Agreement.
+>c. all the Interests granted to Malahat Nation by Her Majesty the Queen in Right of Canada listed in the Individual Agreement.
 
 2.4 In this Land Code,
 
-a. the use of the word "shall" denotes an obligation that, unless this Land Code provides to the contrary, must be carried out as soon as practicable;
+>a. the use of the word "shall" denotes an obligation that, unless this Land Code provides to the contrary, must be carried out as soon as practicable;
 
-b. unless it is otherwise clear from the context, the use of the word "including" means "including, but not limited to", and the use of the word "includes" means "includes, but is not limited to";
+>b. unless it is otherwise clear from the context, the use of the word "including" means "including, but not limited to", and the use of the word "includes" means "includes, but is not limited to";
 
-c. headings and subheadings are for convenience only, do not form a part of this Land Code and in no way define, limit, alter or enlarge the scope or meaning of any provision of this Land Code;
+>c. headings and subheadings are for convenience only, do not form a part of this Land Code and in no way define, limit, alter or enlarge the scope or meaning of any provision of this Land Code;
 
-d. a reference to a statute or Law includes every amendment to it, every regulation made under it and any statute enacted in substitution for it or in replacement of it; and
+>d. a reference to a statute or Law includes every amendment to it, every regulation made under it and any statute enacted in substitution for it or in replacement of it; and
 
-e. unless it is otherwise clear from the context, the use of the singular includes the plural, and the use of the plural includes the singular.
+>e. unless it is otherwise clear from the context, the use of the singular includes the plural, and the use of the plural includes the singular.
 
 2.5 The provisions under this Land Code shall be interpreted in accordance with the language, culture, traditions and customs of Malahat Nation, unless otherwise provided.
 
@@ -186,15 +186,15 @@ e. unless it is otherwise clear from the context, the use of the singular includ
 
 3.3 For any purpose related to Malahat Nation Land, Malahat Nation has the legal capacity necessary to exercise its powers and perform its duties and functions and, in particular, may:
 
-a. acquire and hold property;
+>a. acquire and hold property;
 
-b. borrow money;
+>b. borrow money;
 
-c. enter into contracts;
+>c. enter into contracts;
 
-d. expend and invest money; and
+>d. expend and invest money; and
 
-e. be a party to legal proceedings.
+>e. be a party to legal proceedings.
 
 ### 4.0 Purpose
 
@@ -204,17 +204,17 @@ e. be a party to legal proceedings.
 
 5.1 The Malahat Nation Lands that are subject to this Land Code are all the lands legally described in the Individual Agreement and any lands added in compliance with this Land Code. This includes:
 
-a. the Indian Reserve known as Malahat Indian Reserve #11 (06814); and
+>a. the Indian Reserve known as Malahat Indian Reserve #11 (06814); and
 
-b. lands set apart by Her Majesty the Queen in Right of Canada in the future as lands reserved for the use and benefit of Malahat Nation.
+>b. lands set apart by Her Majesty the Queen in Right of Canada in the future as lands reserved for the use and benefit of Malahat Nation.
 
 5.2 The following lands may be made subject to this Land Code after the applicable condition is met:
 
-a. any land owned jointly by Malahat Nation and another First Nation, where Malahat Nation and the other First Nation involved agree upon a joint management scheme for those lands;
+>a. any land owned jointly by Malahat Nation and another First Nation, where Malahat Nation and the other First Nation involved agree upon a joint management scheme for those lands;
 
-b. subject to section 5.4, any land acquired by Malahat Nation after this Land Code takes effect, whether by land claim, treaty settlement, purchase or other process, when an environmental audit declares it free of environmental hazard and safe for community use, and provided that the lands are set aside as a reserve; and
+>b. subject to section 5.4, any land acquired by Malahat Nation after this Land Code takes effect, whether by land claim, treaty settlement, purchase or other process, when an environmental audit declares it free of environmental hazard and safe for community use, and provided that the lands are set aside as a reserve; and
 
-c. existing reservelands thatwereomittedor expresslyexcludedfrom the description of therelevantlandsintheIndividualAgreement.
+>c. existing reservelands thatwereomittedor expresslyexcludedfrom the description of therelevantlandsintheIndividualAgreement.
 
 5.3 Subject to s. 5.4, if the relevant conditions in section 5.2 are met, Council must call a Meeting of Members and, after receiving input at that meeting, may enact a Law or pass a Resolution declaring the land to be subject to this Land Code.
 
@@ -230,17 +230,17 @@ c. existing reservelands thatwereomittedor expresslyexcludedfrom the description
 
 6.2 Notwithstanding section 6.1, and subject to the Act, the Framework Agreement and this Land Code, Council may assign or delegate to the Lands Manager, the Lands Department, or a body established by or under this Land Code any of its functions under this Land Code except:
 
-a. the granting of Interests and Licenses in Malahat Nation Lands;
+>a. the granting of Interests and Licenses in Malahat Nation Lands;
 
-b. the negotiation of amendments to the Individual Agreement;
+>b. the negotiation of amendments to the Individual Agreement;
 
-c. Expropriation of Malahat Nation Lands;
+>c. Expropriation of Malahat Nation Lands;
 
-d. the establishment of the Lands Management Advisory Committee;
+>d. the establishment of the Lands Management Advisory Committee;
 
-e. the enactment of Laws; and
+>e. the enactment of Laws; and
 
-f. the approval of budgets and financial statements of the Lands Department.
+>f. the approval of budgets and financial statements of the Lands Department.
 
 ### 7.0 Lands Manager
 
@@ -248,27 +248,27 @@ f. the approval of budgets and financial statements of the Lands Department.
 
 7.2 The Lands Manager has the authority to:
 
-a. manage and administer Malahat Nation Lands in accordance with Laws and this Land Code;
+>a. manage and administer Malahat Nation Lands in accordance with Laws and this Land Code;
 
-b. manage and oversee the day-to-day operations of the Lands Department; and
+>b. manage and oversee the day-to-day operations of the Lands Department; and
 
-c. perform such duties and responsibilities as are required and consistent with this Land Code and Laws.
+>c. perform such duties and responsibilities as are required and consistent with this Land Code and Laws.
 
 7.3 Without limiting the generality or scope of the duties and responsibilities of the Lands Manager, the duties of the Lands Manager may include:
 
-a. preparing and presenting regular reports to Council;
+>a. preparing and presenting regular reports to Council;
 
-b. approving all forms of Written Instruments developed or adapted foruse by the Lands Department;
+>b. approving all forms of Written Instruments developed or adapted foruse by the Lands Department;
 
-c. making recommendations to Council regarding the fees and rent for Interests in Community Land;
+>c. making recommendations to Council regarding the fees and rent for Interests in Community Land;
 
-d. determining the fees for services provided by the Lands Department;
+>d. determining the fees for services provided by the Lands Department;
 
-e. executing such Written instruments and carry out any action required to be taken by and on behalf of Canada in relation to an Interest described in section 22.1;
+>e. executing such Written instruments and carry out any action required to be taken by and on behalf of Canada in relation to an Interest described in section 22.1;
 
-f. carrying out any action required to be taken by Canada in relation to an Interest described in section 22.1 after the date this Land Code comes in to force; and
+>f. carrying out any action required to be taken by Canada in relation to an Interest described in section 22.1 after the date this Land Code comes in to force; and
 
-g. carrying out any duty or responsibility delegated to the Lands Manager under section 7.2.
+>g. carrying out any duty or responsibility delegated to the Lands Manager under section 7.2.
 
 7.4 The Lands Manager may assign his or her duties or functions to an individual or body, but any such assignment does not relieve the Lands Manager of the responsibility to ensure that these duties or functions are carried out properly.
 
@@ -278,19 +278,19 @@ g. carrying out any duty or responsibility delegated to the Lands Manager under 
 
 8.2 Without limiting the generality of the duties and responsibilities of the Lands Department, it shall:
 
-a. administer Malahat Nation Lands in accordance with this Land Code and Laws;
+>a. administer Malahat Nation Lands in accordance with this Land Code and Laws;
 
-b. prepare forms of Written Instruments for use in creating, granting, transferring or assigning Interests and Licenses in Malahat Nation Lands, where deemed necessary and advisable by the Lands Manager;
+>b. prepare forms of Written Instruments for use in creating, granting, transferring or assigning Interests and Licenses in Malahat Nation Lands, where deemed necessary and advisable by the Lands Manager;
 
-c. prepare forms of Written Instruments for use in registering documents which affect or purport to affect Malahat Nation Lands, where deemed necessary and advisable by the Lands Manager;
+>c. prepare forms of Written Instruments for use in registering documents which affect or purport to affect Malahat Nation Lands, where deemed necessary and advisable by the Lands Manager;
 
-d. arrange for the execution of Written instruments and related documents on behalf of Malahat Nation and Her Majesty the Queen in Right of Canada;
+>d. arrange for the execution of Written instruments and related documents on behalf of Malahat Nation and Her Majesty the Queen in Right of Canada;
 
-e. maintain and protect records in relation to Malahat Nation Lands;
+>e. maintain and protect records in relation to Malahat Nation Lands;
 
-f. under the direction of the Lands Manager, carry out any duty or responsibility delegated to the Lands Manager under section 7.2; and
+>f. under the direction of the Lands Manager, carry out any duty or responsibility delegated to the Lands Manager under section 7.2; and
 
-g. carry out such additional duties as are requested by the Lands Manager consistent with Laws and this Land Code.
+>g. carry out such additional duties as are requested by the Lands Manager consistent with Laws and this Land Code.
 
 ### 9.0 Lands Management Advisory Committee
 
@@ -298,17 +298,17 @@ g. carry out such additional duties as are requested by the Lands Manager consis
 
 9.2 A Law that establishes a Lands Management Advisory Committee must include provisions that set out:
 
-a. the composition of the Lands Management Advisory Committee, including quorum, and the composition of the Lands Management Advisory Committee must include at minimum the Nation Manager, the Lands Manager, 1 Memberof Council and 1 Member at large;
+>a. the composition of the Lands Management Advisory Committee, including quorum, and the composition of the Lands Management Advisory Committee must include at minimum the Nation Manager, the Lands Manager, 1 Memberof Council and 1 Member at large;
 
-b. eligibility criteria and process for selecting members of the Lands Management Advisory Committee;
+>b. eligibility criteria and process for selecting members of the Lands Management Advisory Committee;
 
-c. the term of office for members of the Lands Management Advisory Committee;
+>c. the term of office for members of the Lands Management Advisory Committee;
 
-d. the process for selecting a chair;
+>d. the process for selecting a chair;
 
-e. the duties of the chair; and
+>e. the duties of the chair; and
 
-f. the role of the Lands Management Advisory Committee.
+>f. the role of the Lands Management Advisory Committee.
 
 ### 10.0 Exercise of Duties
 
@@ -320,117 +320,117 @@ f. the role of the Lands Management Advisory Committee.
 
 11.1 Council may, in accordance with this Land Code, make Laws respecting:
 
-a. the development, conservation, protection, management, use and possession of, and planning for Malahat Nation Lands;
+>a. the development, conservation, protection, management, use and possession of, and planning for Malahat Nation Lands;
 
-b. Interests or rights in and Licenses in relation to Malahat Nation Lands;
+>b. Interests or rights in and Licenses in relation to Malahat Nation Lands;
 
-c. any matter necessary to give effect to this Land Code; and
+>c. any matter necessary to give effect to this Land Code; and
 
-d. any matter necessary or ancillary to a Law respecting Malahat Nation Lands.
+>d. any matter necessary or ancillary to a Law respecting Malahat Nation Lands.
 
 11.2 For greater certainty, and without limiting the generality of section 11.1, Council may make Laws on matters in relation to Malahat Nation Lands including but not limited to:
 
-a. the regulation, control or prohibition of zoning, land use and development, including zoning and subdivision control;
+>a. the regulation, control or prohibition of zoning, land use and development, including zoning and subdivision control;
 
-b. economic development;
+>b. economic development;
 
-c. setting aside lands for community purposes or works;
+>c. setting aside lands for community purposes or works;
 
-d. procedures that apply to the transfer, testamentary disposition or succession of an Interest in Malahat Nation Lands;
+>d. procedures that apply to the transfer, testamentary disposition or succession of an Interest in Malahat Nation Lands;
 
-e. rules, procedures and rights respecting the Expropriation of Interests in Malahat Nation Lands;
+>e. rules, procedures and rights respecting the Expropriation of Interests in Malahat Nation Lands;
 
-f. creation, regulation and prohibition of Interests and Licenses in Malahat Nation Lands;
+>f. creation, regulation and prohibition of Interests and Licenses in Malahat Nation Lands;
 
-g. environmental assessment and protection;
+>g. environmental assessment and protection;
 
-h. provision of services for the resolution, outside the courts, of disputes in relation to Malahat Nation Lands;
+>h. provision of services for the resolution, outside the courts, of disputes in relation to Malahat Nation Lands;
 
-i. regulation, control, authorization and prohibition of residency, access and occupation and development of land;
+>i. regulation, control, authorization and prohibition of residency, access and occupation and development of land;
 
-j. to provide for community health and safety;
+>j. to provide for community health and safety;
 
-k. regulation of construction standards for buildings, structures and facilities on Malahat Nation Lands;
+>k. regulation of construction standards for buildings, structures and facilities on Malahat Nation Lands;
 
-l. fees, stumpage or royalties to be paid to Malahat Nation for the removal or extraction of Natural Resources from Malahat Nation Lands;
+>l. fees, stumpage or royalties to be paid to Malahat Nation for the removal or extraction of Natural Resources from Malahat Nation Lands;
 
-m. the purchase, acquisition or sale of lands in accordance with the *Indian Act* and this Land Code;
+>m. the purchase, acquisition or sale of lands in accordance with the *Indian Act* and this Land Code;
 
-n. setting of fees and rents to be paid to Malahat Nation for Permit or License applications or for administrative processes;
+>n. setting of fees and rents to be paid to Malahat Nation for Permit or License applications or for administrative processes;
 
-o. provision of local services and the imposition of user charges, including development cost charges or other similar charges;
+>o. provision of local services and the imposition of user charges, including development cost charges or other similar charges;
 
-p. conduct of surveys;
+>p. conduct of surveys;
 
-q. setting aside and regulation of parks, park lands and recreational lands;
+>q. setting aside and regulation of parks, park lands and recreational lands;
 
-r. setting aside and regulation of heritage sites, cultural sites,traditional sites, spiritual sites, sacred sites and wildlife refuges;
+>r. setting aside and regulation of heritage sites, cultural sites,traditional sites, spiritual sites, sacred sites and wildlife refuges;
 
-s. creation of management and administrative bodies or agencies;
+>s. creation of management and administrative bodies or agencies;
 
-t. removal, punishment and prosecution of persons trespassing upon Malahat Nation Lands or frequenting Malahat Nation Lands for prohibited purposes;
+>t. removal, punishment and prosecution of persons trespassing upon Malahat Nation Lands or frequenting Malahat Nation Lands for prohibited purposes;
 
-u. public nuisance and private nuisance;
+>u. public nuisance and private nuisance;
 
-v. regulation of sanitary conditions and the provision of sanitary services in private premises and public places;
+>v. regulation of sanitary conditions and the provision of sanitary services in private premises and public places;
 
-w. construction, maintenance and management of roads, watercourses, storm drains, water diversions, bridges, fences, ditches, and other local and public works;
+>w. construction, maintenance and management of roads, watercourses, storm drains, water diversions, bridges, fences, ditches, and other local and public works;
 
-x. construction and maintenance of boundary and internal fences;
+>x. construction and maintenance of boundary and internal fences;
 
-y. regulation of traffic and transportation;
+>y. regulation of traffic and transportation;
 
-z. hunting, fishing, management, and protection of fish, wildlife and their habitat on Malahat Nation Lands;
+>z. hunting, fishing, management, and protection of fish, wildlife and their habitat on Malahat Nation Lands;
 
-aa. use and storage of fireworks, firearms, weapons and hazardous materials or substances on Malahat Nation Lands;
+>aa. use and storage of fireworks, firearms, weapons and hazardous materials or substances on Malahat Nation Lands;
 
-bb. archaeological assessment and protection of archaeological and cultural resources;
+>bb. archaeological assessment and protection of archaeological and cultural resources;
 
-cc. enforcement of the Laws of the Nation; and
+>cc. enforcement of the Laws of the Nation; and
 
-dd. administrative appeals from a decision to grant or refuse to grant Interests in Malahat Nation Lands.
+>dd. administrative appeals from a decision to grant or refuse to grant Interests in Malahat Nation Lands.
 
 11.3 All Laws enacted by Malahat Nation shall be:
 
-a. published in accordance with section 14.1; and
+>a. published in accordance with section 14.1; and
 
-b. included in the Malahat Nation Law Registry in accordance with section 14.2.
+>b. included in the Malahat Nation Law Registry in accordance with section 14.2.
 
 ### 12.0 Matrimonial Real Property Law
 
 12.1 Council shall, following the community consultation process set out in Part 4, develop rules and procedures applicable on the breakdown of a relationship between Spouses to the:
 
-a. use, occupation and possession of Malahat Nation Lands; and
+>a. use, occupation and possession of Malahat Nation Lands; and
 
-b. division of Interests or rights in Malahat Nation Lands.
+>b. division of Interests or rights in Malahat Nation Lands.
 
 12.2 Within 12 months from the date this Land Code comes into force, Council shall enact a Matrimonial Real Property Law incorporating the rules and procedures developed in accordance with section 12.1.
 
 12.3 For greater certainty, the rules and procedures in th eMatrimonial Real Property Law enacted under section 12.2 shall respect the following general principles;
 
-a. the rules and procedures shall not discriminate on the basis of sex; and
+>a. the rules and procedures shall not discriminate on the basis of sex; and
 
-b. consideration shall be given to the best interests of any children of the relationship.
+>b. consideration shall be given to the best interests of any children of the relationship.
 
 ### 13.0 Law-Making Procedure
 
 13.1 A proposed Law may be introduced at a duly convened meeting of Council by:
 
-a. the Chief or a Councilor;
+>a. the Chief or a Councilor;
 
-b. the Lands Manager;
+>b. the Lands Manager;
 
-c. a representative of a body or authority authorized by the Council to do so; or
+>c. a representative of a body or authority authorized by the Council to do so; or
 
-d. a written request to Council, signed by at least 10 Eligible Voters, that sets out the specific subject matter or issue for which a Law is requested.
+>d. a written request to Council, signed by at least 10 Eligible Voters, that sets out the specific subject matter or issue for which a Law is requested.
 
 13.2 A Member who wishes to propose a Law to Council shall submit their request to the Lands Manager, who shall determine whether to bring the proposal to Council based on whether the requirements in paragraph 13.1(d) have been met.
 
 13.3 Before a proposed Law may be enacted by Council, it shall first be
 
-a. approved in principle at a duly convened meeting of Council at least 30 days before the Law is to be enacted; and
+>a. approved in principle at a duly convened meeting of Council at least 30 days before the Law is to be enacted; and
 
-b. posted at the Malahat Nation administration office, at least 21 days before the Law is to be enacted.
+>b. posted at the Malahat Nation administration office, at least 21 days before the Law is to be enacted.
 
 13.4 Council may enact a Law without the preliminary steps required under section 13.3, if the Council, acting reasonably, believes that the Law is needed urgently to protect Malahat Nation Lands or the Members.
 
@@ -444,9 +444,9 @@ b. posted at the Malahat Nation administration office, at least 21 days before t
 
 14.1 Within seven days after a Law has been enacted, the Lands Manager must:
 
-a. post a copy of the Law at the band administration office; and
+>a. post a copy of the Law at the band administration office; and
 
-b. post a copy of the Law on Malahat Nation's website.
+>b. post a copy of the Law on Malahat Nation's website.
 
 14.2 Council shall ensure that a copy of each Law and Resolution is deposited in the Malahat Nation Law Registry.
 
@@ -466,31 +466,31 @@ b. post a copy of the Law on Malahat Nation's website.
 
 16.1 An Eligible Voter is entitled to:
 
-a. attend a Meeting of Members called under this Land Code; and
+>a. attend a Meeting of Members called under this Land Code; and
 
-b. if there is a vote, vote at a Meeting of Members called under this Land Code.
+>b. if there is a vote, vote at a Meeting of Members called under this Land Code.
 
 ### 17.0 Community Input
 
 17.1 Council must call a Meeting of Members to receive input prior to any Council vote on whether to approve a Law in relation to:
 
-a. matrimonial real property under section 12.1;
+>a. matrimonial real property under section 12.1;
 
-b. a Land Use Plan;
+>b. a Land Use Plan;
 
-c. a community plan or subdivision plan;
+>c. a community plan or subdivision plan;
 
-d. declaring land or an Interest referred to in section 5.2 or 5.3 be subject to this Land Code;
+>d. declaring land or an Interest referred to in section 5.2 or 5.3 be subject to this Land Code;
 
-e. a Heritage Site;
+>e. a Heritage Site;
 
-f. an Environmentally Sensitive Property;
+>f. an Environmentally Sensitive Property;
 
-g. environmental assessment;
+>g. environmental assessment;
 
-h. the grant, transfer or assignment of an Interest in Malahat Nation Lands;
+>h. the grant, transfer or assignment of an Interest in Malahat Nation Lands;
 
-i. any other matter or class of matters that Council, by Resolution, declares to be subject to this section.
+>i. any other matter or class of matters that Council, by Resolution, declares to be subject to this section.
 
 17.2 Within a reasonable time after this Land Code takes effect, the Council must establish a community process to develop and implement the Laws referred to in section 17.1.
 
@@ -498,27 +498,27 @@ i. any other matter or class of matters that Council, by Resolution, declares to
 
 18.1 Community approval at a Meeting of Members must be obtained for the following:
 
-a. a Land Use Plan;
+>a. a Land Use Plan;
 
-b. amendment of a Land Use Plan;
+>b. amendment of a Land Use Plan;
 
-c. a charge or Mortgage of a Leasehold in Community Land exceeding a term of 25 years;
+>c. a charge or Mortgage of a Leasehold in Community Land exceeding a term of 25 years;
 
-d. a Matrimonial Real Property Law under section 12.1;
+>d. a Matrimonial Real Property Law under section 12.1;
 
-e. a voluntary exchange of Malahat Nation Lands in accordance with section 32.0; and
+>e. a voluntary exchange of Malahat Nation Lands in accordance with section 32.0; and
 
-f. a Law or class of Law, or any matter in relation to Malahat Nation Lands that Council, by Resolution, declares to be subject to this section.
+>f. a Law or class of Law, or any matter in relation to Malahat Nation Lands that Council, by Resolution, declares to be subject to this section.
 
 ### 19.0 Procedures for a Meeting of Members
 
 19.1 In addition to the public notice procedures set out in section 46.1, Council shall give written notice of a Meeting of Members by:
 
-a. mailing the notice to Eligible Voters at their last known address at least 21 days before themeeting;
+>a. mailing the notice to Eligible Voters at their last known address at least 21 days before themeeting;
 
-b. publishing the notice in a community newsletter or local newspaper and on Malahat Nation's website at least ten days before the meeting; and
+>b. publishing the notice in a community newsletter or local newspaper and on Malahat Nation's website at least ten days before the meeting; and
 
-c. such other methods as Council may consider appropriate.
+>c. such other methods as Council may consider appropriate.
 
 19.2 All Members have the right to attend a Meeting of Members, but other persons may attend only with the permission of Council.
 
@@ -536,11 +536,11 @@ c. such other methods as Council may consider appropriate.
 
 20.1 Member approval by a Ratification Vote must be obtained for:
 
-a. an amendment of the Individual Agreement that reduces the amount of funding provided by Canada by 10% or more;
+>a. an amendment of the Individual Agreement that reduces the amount of funding provided by Canada by 10% or more;
 
-b. an amendment to this Land Code under section 50.0; and
+>b. an amendment to this Land Code under section 50.0; and
 
-c. the enactment of a Law or class of Laws that the Council, by Resolution, declares to be subject to this section.
+>c. the enactment of a Law or class of Laws that the Council, by Resolution, declares to be subject to this section.
 
 20.2 A Ratification Vote required under this Land Code shall be conducted, with any necessary modifications appropriate in the circumstances, in the same manner as that provided in the Malahat Nation Community Ratification Process that was used to ratify this Land Code.
 
@@ -574,9 +574,9 @@ c. the enactment of a Law or class of Laws that the Council, by Resolution, decl
 
 23.1 The Lands Manager may:
 
-a. set criteria for issuing Interests and Licenses; and
+>a. set criteria for issuing Interests and Licenses; and
 
-b. make recommendations to Council regarding the granting of Interests and Licenses in Malahat Nation Lands.
+>b. make recommendations to Council regarding the granting of Interests and Licenses in Malahat Nation Lands.
 
 23.2 Council may by Law or Resolution grant an Interest or License subject to the requirements of this Land Code and to the satisfaction of written conditions.
 
@@ -588,11 +588,11 @@ b. make recommendations to Council regarding the granting of Interests and Licen
 
 24.3 Subject to this Land Code and any Laws, Land Use Plans or regulations, Resolutions or policies passed under it, a Member who has been granted an Allocation has the following rights and responsibilities:
 
-a. exclusive possession of the land for Residential Use;
+>a. exclusive possession of the land for Residential Use;
 
-b. the right to transfer, devise or otherwise dispose of their Allocation to another Member; and
+>b. the right to transfer, devise or otherwise dispose of their Allocation to another Member; and
 
-c. any other rights and responsibilities set out in the Land Code or Laws.
+>c. any other rights and responsibilities set out in the Land Code or Laws.
 
 24.4 If a Member who holds an Allocation abandons the land or uses the land for a purpose other than for Residential Use for a period of more than 8 consecutive weeks, the Allocation is automatically cancelled and the lands subject to the Allocation shall become Community Land and any structures affixed thereto vest in Malahat Nation.
 
@@ -602,9 +602,9 @@ c. any other rights and responsibilities set out in the Land Code or Laws.
 
 25.1 All transfers and assignments of Interests shall:
 
-a. comply with this Land Code and all Laws; and
+>a. comply with this Land Code and all Laws; and
 
-b. be registered in the First Nations Land Registry, in accordance with section 28.0.
+>b. be registered in the First Nations Land Registry, in accordance with section 28.0.
 
 ### 26.0 Limits on Mortgages and Seizures
 
@@ -614,9 +614,9 @@ b. be registered in the First Nations Land Registry, in accordance with section 
 
 26.3 In the event of default on a Mortgage of an Interest, the Interest will not be subject to possession by foreclosure, power of sale or any other form of execution or seizure, unless:
 
-a. the Mortgage was registered in the First Nations Land Registry; and
+>a. the Mortgage was registered in the First Nations Land Registry; and
 
-b. the mortgagee has given the Council, acting on behalf of Malahat Nation, 120 days in which to redeem the Mortgage.
+>b. the mortgagee has given the Council, acting on behalf of Malahat Nation, 120 days in which to redeem the Mortgage.
 
 26.4 If Council exercises its power of redemption with respect toa Leasehold Interest, Malahat Nation becomes the lessee of the land and takes the position of the mortgagee for all purposes after the date of the redemption, and, for greater certainty has full and immediate rights of access and eviction.
 
@@ -634,15 +634,15 @@ b. the mortgagee has given the Council, acting on behalf of Malahat Nation, 120 
 
 28.2 Every Person who has or is granted an Interest in Malahat Nation Lands, under this Land Code, shall:
 
-a. submit the Written Instrument creating, transferring or assigning the Interest for registration or recording in the First Nations Land Registry; or
+>a. submit the Written Instrument creating, transferring or assigning the Interest for registration or recording in the First Nations Land Registry; or
 
-b. submit the Written Instrument to the Lands Department, together with:
+>b. submit the Written Instrument to the Lands Department, together with:
 
-i. awrittenrequesttoregisterorrecordtheWrittenInstrumentintheFirstNationsLandRegistry,
+>>i. a written request to register or record the Written Instrument in the First Nations Land Registry,
 
-ii. afilingfeeifapplicable,and
+>>ii. a filing fee if applicable, and
 
-iii. asignedwaiverofliability.
+>>iii. a signed waiver of liability.
 
 28.3 Upon receiving the items under paragraph 28.2(b), the Lands Manager shall confirm if the form of the Written Instrument is in compliance with this Land Code, all relevant Laws, the Act and the *First Nations Land Registry Regulations*, and, if it is in compliance, submit the Written Instrument and supporting documentation for registration or recording in the First Nations Land Registry.
 
@@ -650,43 +650,43 @@ iii. asignedwaiverofliability.
 
 28.5 Provided the Lands Manager receives the documents, the Lands Manager shall ensure that an original copy of the following documents is deposited in the First Nations Land Registry:
 
-a. every Land Use Plan, subdivision plan or resource use plan; and
+>a. every Land Use Plan, subdivision plan or resource use plan; and
 
-b. this Land Code and any amendment to this Land Code.
+>b. this Land Code and any amendment to this Land Code.
 
 28.6 Neither Malahat Nation, Council, the Lands Manager or any Malahat Nation employee shall be liable for ensuring that a Written Instrument that affects or purports to affect Malahat Nation Lands:
 
-a. is validly made;
+>a. is validly made;
 
-b. complies with the Land Code or any Law;
+>b. complies with the Land Code or any Law;
 
-c. should be registered or recorded; or
+>c. should be registered or recorded; or
 
-d. will be accepted for registration or recording in the First Nations Land Registry.
+>d. will be accepted for registration or recording in the First Nations Land Registry.
 
 ### 29.0 Transfers on Death
 
 29.1 A Member who claims to be entitled to a Certificate of Possession or Allocation, by testamentary disposition or succession pursuant to the *Indian Act*, is not entitled to such Certificate of Possession or Allocation until:
 
-a. the Member has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager, duly executed by the personal representative of the estate of the deceased Member transferring such Certificate of Possession or Allocation to the Member; and
+>a. the Member has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager, duly executed by the personal representative of the estate of the deceased Member transferring such Certificate of Possession or Allocation to the Member; and
 
-b. the Written Instrument referred to in subsection (a) is registered in the First Nations Land Registry.
+>b. the Written Instrument referred to in subsection (a) is registered in the First Nations Land Registry.
 
 29.2 Subject to any applicable federal or provincial laws, if a Member holding an Interest in Malahat Nation Lands dies and no provision has been made by the deceased Member for the disposition of that Interest to another Member, the following rules apply:
 
-a. Council shall take reasonable steps to notify the deceased's Immediate Family that the Interest held by the deceased is available;
+>a. Council shall take reasonable steps to notify the deceased's Immediate Family that the Interest held by the deceased is available;
 
-b. the deceased's Immediate Family may decide who among them should receive the Interest, provided that Person is a Member, and may make a recommendation to Aboriginal Affairs and to Council; and
+>b. the deceased's Immediate Family may decide who among them should receive the Interest, provided that Person is a Member, and may make a recommendation to Aboriginal Affairs and to Council; and
 
-c. if the deceased left no Immediate Family or heirs, the Interest will revert to Malahat Nation as Community Land and if it is an Allocation or Certificate of Possession, will go back into the pool of lands available for Allocation to Members.
+>c. if the deceased left no Immediate Family or heirs, the Interest will revert to Malahat Nation as Community Land and if it is an Allocation or Certificate of Possession, will go back into the pool of lands available for Allocation to Members.
 
 29.3 A purchaser of an Allocation or Certificate of Possession pursuant to subsection 50(2) of the *Indian Act* is not entitled to such Allocation or Certificate of Possession until:
 
-a. for an Allocation, the purchaser has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager or any policy of Malahat Nation and duly executed by the Lands Manager;
+>a. for an Allocation, the purchaser has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager or any policy of Malahat Nation and duly executed by the Lands Manager;
 
-b. for a Certificate of Possession, the purchaser has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager, duly executed by the Person authorized under the *Indian Act* to execute a transfer of a Certificate of Possession acquired pursuant to section 50(2) of the *Indian Act*; and
+>b. for a Certificate of Possession, the purchaser has filed with the Lands Department a Written Instrument in a form prescribed by the Lands Manager, duly executed by the Person authorized under the *Indian Act* to execute a transfer of a Certificate of Possession acquired pursuant to section 50(2) of the *Indian Act*; and
 
-c. the Written Instrument referred to in subsections (a) and (b) is registered in the First Nations Land Registry.
+>c. the Written Instrument referred to in subsections (a) and (b) is registered in the First Nations Land Registry.
 
 29.4 Council may enact Laws or approve policies related to granting Members or non-Members a grieving period for dealing with Immediate Family member's Interests in Malahat Nation Lands, and such Laws or policies may include granting Immediate Family a specified time before having to vacate the Malahat Nation Lands over which the deceased Member had an Interest.
 
@@ -698,29 +698,29 @@ c. the Written Instrument referred to in subsections (a) and (b) is registered i
 
 30.3 The following persons have a right to reside on Malahat Nation Lands:
 
-a. Members and their Immediate Family; and
+>a. Members and their Immediate Family; and
 
-b. any Person who holds a valid Lease or other Interest that grants to that Person the right to reside on Malahat Nation Lands provided that the Person complies with all applicable Laws and is not the subject of any Resolution barring the Person from Malahat Nation Lands.
+>b. any Person who holds a valid Lease or other Interest that grants to that Person the right to reside on Malahat Nation Lands provided that the Person complies with all applicable Laws and is not the subject of any Resolution barring the Person from Malahat Nation Lands.
 
 30.1 The following persons have a right of access to Malahat Nation Lands:
 
-a. Members and their Immediate family and invitees;
+>a. Members and their Immediate family and invitees;
 
-b. Interest holders and their invitees;
+>b. Interest holders and their invitees;
 
-c. Licensees and those granted a right of access under the License;
+>c. Licensees and those granted a right of access under the License;
 
-d. persons authorized by a government body or any other public body, established by or under an enactment of Malahat Nation or British Columbia to establish, operate or administer a public service, to operate a public institution or to conduct a technical survey;
+>d. persons authorized by a government body or any other public body, established by or under an enactment of Malahat Nation or British Columbia to establish, operate or administer a public service, to operate a public institution or to conduct a technical survey;
 
-e. persons authorized by law; or
+>e. persons authorized by law; or
 
-f. any Person, for a valid social or business purpose, provided that the Person:
+>f. any Person, for a valid social or business purpose, provided that the Person:
 
-i. does not enter onto occupied land or interfere with any Interest in land except to the extent that it is reasonably necessary;
+>>i. does not enter onto occupied land or interfere with any Interest in land except to the extent that it is reasonably necessary;
 
-ii. complies with all applicable Laws; and
+>>ii. complies with all applicable Laws; and
 
-iii. is not the subject of a Resolution barring the Person from Malahat Nation Lands.
+>>iii. is not the subject of a Resolution barring the Person from Malahat Nation Lands.
 
 30.5 A right of residence on or access to Malahat Nation Lands does not imply or create any financial obligation on the part of Malahat Nation.
 
@@ -736,25 +736,25 @@ iii. is not the subject of a Resolution barring the Person from Malahat Nation L
 
 31.3 Notwithstanding section 31.2, an Interest or License granted by a Member in Malahat Nation Lands may be expropriated if:
 
-a. the Interest or License to be expropriated is determined to be fraudulent or to have been granted for an illegal purpose; or
+>a. the Interest or License to be expropriated is determined to be fraudulent or to have been granted for an illegal purpose; or
 
-b. the Interest or License is determined to be not in the best interests of Malahat Nation.
+>b. the Interest or License is determined to be not in the best interests of Malahat Nation.
 
 31.4 No Expropriation may be made under section 31.0 unless:
 
-a. the holder of the Interest is given a reasonable opportunity to address and rectify the concerns of the Member or Malahat Nation and fails within a reasonable time to do so;
+>a. the holder of the Interest is given a reasonable opportunity to address and rectify the concerns of the Member or Malahat Nation and fails within a reasonable time to do so;
 
-b. the Member consents to the Expropriation;
+>b. the Member consents to the Expropriation;
 
-c. the expropriated Interest or License reverts to the Member; and
+>c. the expropriated Interest or License reverts to the Member; and
 
-d. the Expropriation is carried out in accordance with this Part.
+>d. the Expropriation is carried out in accordance with this Part.
 
 31.5 Malahat Nation will only expropriate an Interest or License:
 
-a. after notifying the Interest-holders of the purpose for Expropriation, and making a good faith effort to acquire, by mutual agreement, the Interest in Malahat Nation Lands; and
+>a. after notifying the Interest-holders of the purpose for Expropriation, and making a good faith effort to acquire, by mutual agreement, the Interest in Malahat Nation Lands; and
 
-b. if no other similar and suitable Malahat Nation Lands is reasonably available.
+>b. if no other similar and suitable Malahat Nation Lands is reasonably available.
 
 31.6 Before Malahat Nation decides to expropriate an Interest or License, it shall post a public notice, in accordance with section 46.0.
 
@@ -762,9 +762,9 @@ b. if no other similar and suitable Malahat Nation Lands is reasonably available
 
 31.8 Malahat Nation shall, in accordance with its Laws and the Framework Agreement,
 
-a. serve reasonable notice of the Expropriation on each affected holder of the Interest or License to be expropriated; and
+>a. serve reasonable notice of the Expropriation on each affected holder of the Interest or License to be expropriated; and
 
-b. pay fair and reasonable compensation to the holders of the Interest or License being expropriated.
+>b. pay fair and reasonable compensation to the holders of the Interest or License being expropriated.
 
 31.9 In determining the "market value" of the compensation under this section, Malahat Nation shall apply the rules set out in the *Expropriation Act*, R.S.C. 1985, c. E-21 with such modifications as the circumstances may require.
 
@@ -772,17 +772,17 @@ b. pay fair and reasonable compensation to the holders of the Interest or Licens
 
 31.11 Disputes concerning the:
 
-a. right of a Person who claims an Interest in expropriated Malahat Nation Lands to compensation; and
+>a. right of a Person who claims an Interest in expropriated Malahat Nation Lands to compensation; and
 
-b. amount of the compensation to be paid to the Person who held an Interest or License in expropriated Malahat Nation Lands,
+>b. amount of the compensation to be paid to the Person who held an Interest or License in expropriated Malahat Nation Lands,
 
-c. shall be determined in accordance with PART 8: DISPUTE RESOLUTION.
+>c. shall be determined in accordance with PART 8: DISPUTE RESOLUTION.
 
 31.12 No Expropriation of an Interest in Malahat Nation Lands or in any building or other structure on Malahat Nation Lands, by Malahat Nation, shall take effect earlier than:
 
-a. the date the notice of Expropriation is registered in the First Nations Land Registry; or
+>a. the date the notice of Expropriation is registered in the First Nations Land Registry; or
 
-b. the 30th day after the day the last copy of the notice is served on the Interest-Holder.
+>b. the 30th day after the day the last copy of the notice is served on the Interest-Holder.
 
 ### 32.0 Voluntary Land Exchanges and Protections
 
@@ -792,19 +792,19 @@ b. the 30th day after the day the last copy of the notice is served on the Inter
 
 32.3 No land exchange may occur unless:
 
-a. the land to be received in the exchange is
+>a. the land to be received in the exchange is
 
-i. equal to or greater than the area of the Malahat Nation Lands to be exchanged,
+>>i. equal to or greater than the area of the Malahat Nation Lands to be exchanged,
 
-ii. at least comparable to the appraised value of the Malahat Nation Lands,and
+>>ii. at least comparable to the appraised value of the Malahat Nation Lands,and
 
-iii. eligible to become a reserve under the *Indian Act* and Malahat Nation Lands subject to this Land Code; and
+>>iii. eligible to become a reserve under the *Indian Act* and Malahat Nation Lands subject to this Land Code; and
 
-b. Malahat Nation receives from Her Majesty the Queen in Right of Canada a written statement clearly stating that Her Majesty the Queen in Right of Canada consents to
+>b. Malahat Nation receives from Her Majesty the Queen in Right of Canada a written statement clearly stating that Her Majesty the Queen in Right of Canada consents to
 
-i. set apart as a reserve the land to be received in exchange, as of the date of the land exchange or such later date as Council may specify by Resolution or as provided by an agreement with Her Majesty the Queen in Right of Canada, and
+>>i. set apart as a reserve the land to be received in exchange, as of the date of the land exchange or such later date as Council may specify by Resolution or as provided by an agreement with Her Majesty the Queen in Right of Canada, and
 
-ii. the manner and form of the exchange as set out in the exchange agreement.
+>>ii. the manner and form of the exchange as set out in the exchange agreement.
 
 32.4 Council may, by Resolution, delegate to another Person the authority to negotiate a land exchange agreement on behalf of Malahat Nation.
 
@@ -812,25 +812,25 @@ ii. the manner and form of the exchange as set out in the exchange agreement.
 
 32.6 Once negotiations on the land exchange agreement are concluded, Council shall, at least 21 days before the Meeting of Members on this matter, provide to Eligible Voters a:
 
-a. description of the Malahat Nation Lands to be exchanged;
+>a. description of the Malahat Nation Lands to be exchanged;
 
-b. description of the land to be received in the exchange;
+>b. description of the land to be received in the exchange;
 
-c. description of any other compensation to be exchanged;
+>c. description of any other compensation to be exchanged;
 
-d. report of a certified land appraiser setting out that the conditions in paragraph 32.3(a) have been met;
+>d. report of a certified land appraiser setting out that the conditions in paragraph 32.3(a) have been met;
 
-e. copy or summary of the exchange agreement; and
+>e. copy or summary of the exchange agreement; and
 
-f. copy of the consent referred to in paragraph 32.3(b).
+>f. copy of the consent referred to in paragraph 32.3(b).
 
 32.7 Any land exchange agreement shall provide that
 
-a. the other party to the exchange shall transfer to Her Majesty the Queen in Right of Canada the title to the land which is to be set apart as a reserve;
+>a. the other party to the exchange shall transfer to Her Majesty the Queen in Right of Canada the title to the land which is to be set apart as a reserve;
 
-b. Council shall pass a Resolution authorizing Her Majesty the Queenin Right of Canada to transfer title to Malahat Nation Lands being exchanged, in accordance with the exchange agreement; and
+>b. Council shall pass a Resolution authorizing Her Majesty the Queenin Right of Canada to transfer title to Malahat Nation Lands being exchanged, in accordance with the exchange agreement; and
 
-c. a copy of the instruments transferring title to the relevant parcels of land shall be registered in the First Nations Land Registry.
+>c. a copy of the instruments transferring title to the relevant parcels of land shall be registered in the First Nations Land Registry.
 
 ### 33.0 Natural Resources
 
@@ -850,23 +850,23 @@ c. a copy of the instruments transferring title to the relevant parcels of land 
 
 35.1 The rules in section 35.2 apply to the following persons when dealing with a matter, Interest or decision relating to Malahat Nation Lands:
 
-a. each Member of Council including the Chief;
+>a. each Member of Council including the Chief;
 
-b. each member of any Board of Directors of any Malahat Nation-owned corporation, to the extent that the corporation is carrying out oversight, management or administration duties in relation to the Land Code;
+>b. each member of any Board of Directors of any Malahat Nation-owned corporation, to the extent that the corporation is carrying out oversight, management or administration duties in relation to the Land Code;
 
-c. each Person who is an employee or contractor of Malahat Nation; and
+>c. each Person who is an employee or contractor of Malahat Nation; and
 
-d. each Person who is a member of a board, committee or other body of Malahat Nation.
+>d. each Person who is a member of a board, committee or other body of Malahat Nation.
 
 **Duty to Report and Abstain**
 
 35.2 If there is any interest, financial, personal, political or otherwise, in the matter being dealt with that might involve the Person or his or her Immediate Family, the Person shall:
 
-a. disclose in writing the interest to Council, and, if appropriate, to their employment supervisor, the board, the Committee, or the other body;
+>a. disclose in writing the interest to Council, and, if appropriate, to their employment supervisor, the board, the Committee, or the other body;
 
-b. take no part in deliberations or discussions on the matter; and
+>b. take no part in deliberations or discussions on the matter; and
 
-c. take no part in any votes, Resolutions, decisions or recommendations on the matter.
+>c. take no part in any votes, Resolutions, decisions or recommendations on the matter.
 
 **Common Interests**
 
@@ -894,15 +894,15 @@ c. take no part in any votes, Resolutions, decisions or recommendations on the m
 
 36.2 All monies received by Malahat Nation or its corporations from Malahat Nation Lands, relating to lands or Natural Resources excluding property tax under this Land Code must be receipted and fully deposited, on day of receipt, in an account or accounts designated for Malahat Nation Lands and Natural Resources revenues separate from other Malahat Nation revenue in a financial institution designated by Council by Resolution. This includes:
 
-a. transfer payments received from Her Majesty the Queen in Right of Canada for the management and administration of Malahat Nation Lands;
+>a. transfer payments received from Her Majesty the Queen in Right of Canada for the management and administration of Malahat Nation Lands;
 
-b. moneys received by Malahat Nation from the grant or disposition of any Interests in Malahat Nation Lands;
+>b. moneys received by Malahat Nation from the grant or disposition of any Interests in Malahat Nation Lands;
 
-c. all fees, fines, royalties, charges and levies collected under a Law related to Malahat Nation Lands;
+>c. all fees, fines, royalties, charges and levies collected under a Law related to Malahat Nation Lands;
 
-d. all capital and revenue moneys received from Her Majesty the Queen in Right of Canada from the grant or disposition of any Interests in Malahat Nation Reserve Land; and
+>d. all capital and revenue moneys received from Her Majesty the Queen in Right of Canada from the grant or disposition of any Interests in Malahat Nation Reserve Land; and
 
-e. any other land or Natural Resources revenue received by Malahat Nation excluding property tax.
+>e. any other land or Natural Resources revenue received by Malahat Nation excluding property tax.
 
 **Signing officers**
 
@@ -958,19 +958,19 @@ e. any other land or Natural Resources revenue received by Malahat Nation exclud
 
 37.2 Malahat Nation is committed to openness and transparency and no Person should:
 
-a. impede or obstruct a Member from inspecting relevant financial records of Malahat Nation in accordance with the Land Code; or
+>a. impede or obstruct a Member from inspecting relevant financial records of Malahat Nation in accordance with the Land Code; or
 
-b. impede or obstruct a Member from inspecting relevant financial records relevant to Malahat Nation Lands.
+>b. impede or obstruct a Member from inspecting relevant financial records relevant to Malahat Nation Lands.
 
 **Preparation of Financial Statement**
 
 37.3 Within 90 days after the end of each fiscal year, the Lands Manager will prepare a financial statement in comparative form containing:
 
-a. a balance sheet;
+>a. a balance sheet;
 
-b. a statement of revenues and expenditures and a comparison of these with the amounts stated in the budget and any duly approved supplementary budget; and
+>b. a statement of revenues and expenditures and a comparison of these with the amounts stated in the budget and any duly approved supplementary budget; and
 
-c. any other information necessary for a fair presentation of the financial position of Malahat Nation in relation to Malahat Nation Lands and Natural Resources.
+>c. any other information necessary for a fair presentation of the financial position of Malahat Nation in relation to Malahat Nation Lands and Natural Resources.
 
 **Consolidated Accounts, Etc.**
 
@@ -1014,21 +1014,21 @@ c. any other information necessary for a fair presentation of the financial posi
 
 39.2 The annual report will include:
 
-a. an annual review of Malahat Nation Lands management activities;
+>a. an annual review of Malahat Nation Lands management activities;
 
-b. a copy and explanation of the audit as it applies to Malahat Nation Lands; and
+>b. a copy and explanation of the audit as it applies to Malahat Nation Lands; and
 
-c. any other matter as may be directed by Council or reasonably requested by the Lands Manager.
+>c. any other matter as may be directed by Council or reasonably requested by the Lands Manager.
 
 ### 40.0 Access to Information
 
 40.1 The following documents will be kept at the Lands Department and any Member may have reasonable access to view them during normal business hours:
 
-a. the register of Laws;
+>a. the register of Laws;
 
-b. the auditor's report in section 38.0 above; and
+>b. the auditor's report in section 38.0 above; and
 
-c. the annual report on lands issues in section 39.0 above.
+>c. the annual report on lands issues in section 39.0 above.
 
 ## PART 8: DISPUTE RESOLUTION
 
@@ -1050,31 +1050,31 @@ c. the annual report on lands issues in section 39.0 above.
 
 42.4	Malahat Nation intends that a dispute in relation to Malahat Nation Lands that is not resolved by informal discussion will, except as otherwise provided, progress in sequence through the following stages provided for in this Part:
 
-a. facilitated discussions;
+>a. facilitated discussions;
 
-b. mediation; and
+>b. mediation; and
 
-c. arbitration.
+>c. arbitration.
 
 ### 43.0 Mediation
 
 43.1 Parties that have been unable to resolve a dispute through informal discussion in accordance with section 41.0 may attempt to resolve the dispute through mediation, in accordance with the following procedure:
 
-a.  the parties to the dispute shall jointly select a Mediator;
+>a.  the parties to the dispute shall jointly select a Mediator;
 
-b. if the parties are unable to agree on a Mediator, the parties may request the British Columbia International Commercial Arbitration Centre to appoint a Mediator; and
+>b. if the parties are unable to agree on a Mediator, the parties may request the British Columbia International Commercial Arbitration Centre to appoint a Mediator; and
 
-c. the Mediator to the dispute shall set the rules and procedures for the mediation.
+>c. the Mediator to the dispute shall set the rules and procedures for the mediation.
 
 ### 44.0 Arbitration
 
 44.1 If the parties are unable to resolve the dispute through mediation, or the parties are not able to agree on a mediation process, the parties may attempt to resolve the dispute through arbitration, in accordance with the following procedure:
 
-a. the parties to the dispute shall jointly select an Arbitrator;
+>a. the parties to the dispute shall jointly select an Arbitrator;
 
-b. if the parties are unable to agree on an Arbitrator, the parties may request the British Columbia International Commercial Arbitration Centre to appoint an Arbitrator; and
+>b. if the parties are unable to agree on an Arbitrator, the parties may request the British Columbia International Commercial Arbitration Centre to appoint an Arbitrator; and
 
-c. the Arbitrator of the dispute shall set the rules and procedures for the arbitration.
+>c. the Arbitrator of the dispute shall set the rules and procedures for the arbitration.
 
 44.2 Subject to section 44.3, the decision of the Arbitrator shall be final and binding on the parties.
 
@@ -1092,21 +1092,21 @@ c. the Arbitrator of the dispute shall set the rules and procedures for the arbi
 
 46.1 Unless expressly provided otherwise, public notice under this Land Code shall:
 
-a. specify the time, date and location of the meeting or vote, if applicable;
+>a. specify the time, date and location of the meeting or vote, if applicable;
 
-b. contain a brief description of the matter at issue;
+>b. contain a brief description of the matter at issue;
 
-c. be posted conspicuously in the reception area of the Malahat Nation administration office at least 21 days prior to the event that is the subject of the public notice; and
+>c. be posted conspicuously in the reception area of the Malahat Nation administration office at least 21 days prior to the event that is the subject of the public notice; and
 
-d. at the discretion of Council, be
+>d. at the discretion of Council, be
 
-i. published in Malahat Nation's newsletter,
+>>i. published in Malahat Nation's newsletter,
 
-ii. published on Malahat Nation's website,
+>>ii. published on Malahat Nation's website,
 
-iii. posted in public places, or
+>>iii. posted in public places, or
 
-iv. by any such additional method as Council may consider appropriate in the circumstances.
+>>iv. by any such additional method as Council may consider appropriate in the circumstances.
 
 ### 47.0 Liability
 
@@ -1114,9 +1114,9 @@ iv. by any such additional method as Council may consider appropriate in the cir
 
 47.2 Council shall arrange, maintain and pay insurance coverage for:
 
-a. liability of Malahat Nation in relation to Community Land and Malahat Nation assets; and
+>a. liability of Malahat Nation in relation to Community Land and Malahat Nation assets; and
 
-b. personal liability of Malahat Nation Council members, officers and employees for acts done in good faith while engaged in carrying out duties related to Malahat Nation Lands under this Land Code.
+>b. personal liability of Malahat Nation Council members, officers and employees for acts done in good faith while engaged in carrying out duties related to Malahat Nation Lands under this Land Code.
 
 47.3 Council shall determine the extent of the insurance coverage reasonably required under section 47.2.
 
@@ -1134,9 +1134,9 @@ b. personal liability of Malahat Nation Council members, officers and employees 
 
 48.5 For the purposes of prosecuting offences, Malahat Nation may enter into an agreement with:
 
-a. Her Majesty the Queen in Right of Canada and British Columbia to arrange for a provincial prosecutor; or
+>a. Her Majesty the Queen in Right of Canada and British Columbia to arrange for a provincial prosecutor; or
 
-b. Her Majesty the Queen in Right of Canada to arrange for a federal agent to prosecute these offences.
+>b. Her Majesty the Queen in Right of Canada to arrange for a federal agent to prosecute these offences.
 
 48.6 If no agreement is made under section 48.5, Malahat Nation may retain a private prosecutor for the purpose of prosecuting offences.
 
@@ -1146,9 +1146,9 @@ b. Her Majesty the Queen in Right of Canada to arrange for a federal agent to pr
 
 49.1 This Land Code shall take effect after:
 
-a.	Members approve this Land Code and the Individual Agreement with Her Majesty the Queen in Right of Canada by Ratification Vote held in accordance with the Malahat Nation Community Ratification Process dated for reference September 15, 2014; and
+>a.	Members approve this Land Code and the Individual Agreement with Her Majesty the Queen in Right of Canada by Ratification Vote held in accordance with the Malahat Nation Community Ratification Process dated for reference September 15, 2014; and
 
-b. this Land Code has been certified by the Verifier pursuant to the Framework Agreement.
+>b. this Land Code has been certified by the Verifier pursuant to the Framework Agreement.
 
 49.2 The Framework Agreement is ratified and confirmed when this Land Code takes effect.
 
@@ -1162,10 +1162,10 @@ b. this Land Code has been certified by the Verifier pursuant to the Framework A
 
 50.4 For greater clarity, minor amendments include administrative amendments to this Land Code that are minor in nature and that have no effect on the substance of the Land Code, such as:
 
-a. corrections to grammatical or typographical errors;
+>a. corrections to grammatical or typographical errors;
 
-b. minor improvements to the language of the Land Code that bring out more clearly the intent of Malahat Nation without changing the substance of any provision;
+>b. minor improvements to the language of the Land Code that bring out more clearly the intent of Malahat Nation without changing the substance of any provision;
 
-c. changes as may be required to reconcile seemingly inconsistent provisions; and
+>c. changes as may be required to reconcile seemingly inconsistent provisions; and
 
-d. amendments ordered by any court of competent jurisdiction.
+>d. amendments ordered by any court of competent jurisdiction.
