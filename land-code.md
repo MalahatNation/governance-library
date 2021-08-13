@@ -38,7 +38,7 @@ The Framework Agreement on First Nations Land Management
 
 "**Arbitrator**" means a Person who:
 
->a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
+>>a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
 
 >b. has been designated as an acceptable Arbitrator in accordance with section 44.1 of the Framework Agreement;
 
