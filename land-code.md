@@ -214,7 +214,7 @@ The Framework Agreement on First Nations Land Management
 
 >b. subject to section 5.4, any land acquired by Malahat Nation after this Land Code takes effect, whether by land claim, treaty settlement, purchase or other process, when an environmental audit declares it free of environmental hazard and safe for community use, and provided that the lands are set aside as a reserve; and
 
->c. existing reservelands thatwereomittedor expresslyexcludedfrom the description of therelevantlandsintheIndividualAgreement.
+>c. existing reserve lands that were omitted or expressly excluded from the description of the relevant lands in the Individual Agreement.
 
 5.3 Subject to s. 5.4, if the relevant conditions in section 5.2 are met, Council must call a Meeting of Members and, after receiving input at that meeting, may enact a Law or pass a Resolution declaring the land to be subject to this Land Code.
 
