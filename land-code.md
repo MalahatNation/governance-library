@@ -454,7 +454,7 @@ The Framework Agreement on First Nations Land Management
 
 14.4 Any Person may obtain a hard copy of a Law or Resolution upon written request accompanied by payment of a reasonable fee set by the Lands Manager.
 
-## 15.0 Commencement and Amendment of Laws
+### 15.0 Commencement and Amendment of Laws
 
 15.1 A Law enacted by Council takes effect on the date of its enactment or such later date as specified by the Law.
 
