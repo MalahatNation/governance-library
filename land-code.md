@@ -20,7 +20,7 @@ The Framework Agreement on First Nations Land Management
 
 **Whereas** Malahat Nation wishes to manage its lands and resources on Malahat Nation reserve lands, rather than having its lands and resources managed on its behalf under the *Indian Act*;
 
-**NOW THEREFORE, THIS LAND CODEIS HEREBY ENACTED AS THE FUNDAMENTAL LAND LAW OF MALAHAT NATION.**
+**NOW THEREFORE, THIS LAND CODE IS HEREBY ENACTED AS THE FUNDAMENTAL LAND LAW OF MALAHAT NATION.**
 
 ## PART 1: PRELIMINARY MATTERS
 
@@ -38,9 +38,9 @@ The Framework Agreement on First Nations Land Management
 
 "**Arbitrator**" means a Person who:
 
-a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
+>a. is a practicing member in good standing of the British Columbia Arbitration and Mediation Institute, its successor, or a similar body, or
 
-b. has been designated as an acceptable Arbitrator in accordance with section 44.1 of the Framework Agreement;
+>b. has been designated as an acceptable Arbitrator in accordance with section 44.1 of the Framework Agreement;
 
 "**Certificate of Possession**" means an exclusive right of possession to a parcel of Malahat Nation Lands allotted to a Member in accordance with section 20(1) or section 20(3) of the *Indian Act* prior to the enactment of this Land Code;
 
@@ -331,33 +331,33 @@ d. any matter necessary or ancillary to a Law respecting Malahat Nation Lands.
 11.2 For greater certainty, and without limiting the generality of section 11.1, Council may make Laws on matters in relation to Malahat Nation Lands including but not limited to:
 
 a. the regulation, control or prohibition of zoning, land use and development, including zoning and subdivision control;
-      
+
 b. economic development;
-      
+
 c. setting aside lands for community purposes or works;
-      
+
 d. procedures that apply to the transfer, testamentary disposition or succession of an Interest in Malahat Nation Lands;
-      
+
 e. rules, procedures and rights respecting the Expropriation of Interests in Malahat Nation Lands;
-      
+
 f. creation, regulation and prohibition of Interests and Licenses in Malahat Nation Lands;
-      
+
 g. environmental assessment and protection;
-      
+
 h. provision of services for the resolution, outside the courts, of disputes in relation to Malahat Nation Lands;
-      
+
 i. regulation, control, authorization and prohibition of residency, access and occupation and development of land;
-      
+
 j. to provide for community health and safety;
-      
+
 k. regulation of construction standards for buildings, structures and facilities on Malahat Nation Lands;
-      
+
 l. fees, stumpage or royalties to be paid to Malahat Nation for the removal or extraction of Natural Resources from Malahat Nation Lands;
-      
+
 m. the purchase, acquisition or sale of lands in accordance with the *Indian Act* and this Land Code;
-      
+
 n. setting of fees and rents to be paid to Malahat Nation for Permit or License applications or for administrative processes;
-      
+
 o. provision of local services and the imposition of user charges, including development cost charges or other similar charges;
 
 p. conduct of surveys;
@@ -715,7 +715,7 @@ d. persons authorized by a government body or any other public body, established
 e. persons authorized by law; or
 
 f. any Person, for a valid social or business purpose, provided that the Person:
-    
+
 i. does not enter onto occupied land or interfere with any Interest in land except to the extent that it is reasonably necessary;
 
 ii. complies with all applicable Laws; and
@@ -893,7 +893,7 @@ c. take no part in any votes, Resolutions, decisions or recommendations on the m
 **Establishment of Bank Accounts**
 
 36.2 All monies received by Malahat Nation or its corporations from Malahat Nation Lands, relating to lands or Natural Resources excluding property tax under this Land Code must be receipted and fully deposited, on day of receipt, in an account or accounts designated for Malahat Nation Lands and Natural Resources revenues separate from other Malahat Nation revenue in a financial institution designated by Council by Resolution. This includes:
-    
+
 a. transfer payments received from Her Majesty the Queen in Right of Canada for the management and administration of Malahat Nation Lands;
 
 b. moneys received by Malahat Nation from the grant or disposition of any Interests in Malahat Nation Lands;
@@ -1059,7 +1059,7 @@ c. arbitration.
 ### 43.0 Mediation
 
 43.1 Parties that have been unable to resolve a dispute through informal discussion in accordance with section 41.0 may attempt to resolve the dispute through mediation, in accordance with the following procedure:
-    
+
 a.  the parties to the dispute shall jointly select a Mediator;
 
 b. if the parties are unable to agree on a Mediator, the parties may request the British Columbia International Commercial Arbitration Centre to appoint a Mediator; and
@@ -1147,7 +1147,7 @@ b. Her Majesty the Queen in Right of Canada to arrange for a federal agent to pr
 49.1 This Land Code shall take effect after:
 
 a.	Members approve this Land Code and the Individual Agreement with Her Majesty the Queen in Right of Canada by Ratification Vote held in accordance with the Malahat Nation Community Ratification Process dated for reference September 15, 2014; and
-   
+
 b. this Land Code has been certified by the Verifier pursuant to the Framework Agreement.
 
 49.2 The Framework Agreement is ratified and confirmed when this Land Code takes effect.
@@ -1161,7 +1161,7 @@ b. this Land Code has been certified by the Verifier pursuant to the Framework A
 50.3 Council may adopt minor amendments to this Land Code following the procedure set out in section 13.0 of this Land Code for the enactment of Laws.
 
 50.4 For greater clarity, minor amendments include administrative amendments to this Land Code that are minor in nature and that have no effect on the substance of the Land Code, such as:
-  
+
 a. corrections to grammatical or typographical errors;
 
 b. minor improvements to the language of the Land Code that bring out more clearly the intent of Malahat Nation without changing the substance of any provision;
