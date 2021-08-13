@@ -144,7 +144,7 @@ Lands Department Review
 
 22.	Where Council determines that a proposed project may proceed, prior to exercising any duty or authority under the Malahat Nation Land Code, Council will identify any required follow up or mitigation measures in writing.
 
-## 7. References and Related Authorities
+## 8. References and Related Authorities
 •	Malahat Nation Land Code
 
 •	Sections 23, 25, 26 and 27 of the Framework Agreement;
