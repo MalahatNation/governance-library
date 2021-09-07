@@ -56,7 +56,7 @@ b. Nations in British Columbia have control of, and decision-making responsibili
 
 c. Nations have a central role in the education of their students, regardless of where they attend school.
 
-d. Board policies and the learning environment will be respectful and will promote a greater understanding among staff and students of the local Nation’s history, territory, and contemporary matters.
+d. Board policies and the learning environment will be respectful and will promote a greater understanding among staff and students of the local Nation’s history, language, territory, and contemporary matters.
 
 ## 2.2. Nation Students Access to Quality Education
 
@@ -104,7 +104,7 @@ a. LEAs are more than a mere financial transaction and serve as a core shared ac
 
 b. Timely and relevant data is required to inform decision-making to support Nation Students.
 
-c. This agreement will be reviewed by both parties on a regular bases for updates as needed.
+c. This agreement will be reviewed by both parties on a regular basis for updates as needed.
 
 # 3. RESPONSIBILITIES & COMMITMENTS
 
@@ -132,7 +132,7 @@ j. Provide an annual contract, the amount to be specified in each annual contrac
 
 >(1) Malahat Nation Education Liaison for the purpose of school liaison as specified in the annual contracts;
 
-k. In coordination with educate Parents about the implications of providing consent to share information and their ability to appoint a representative to act on their behalf;
+k. In coordination with educating Parents about the implications of providing consent to share information and their ability to appoint a representative to act on their behalf;
 
 l. In coordination with the Nation, having regular meetings between Parents, teachers and/or students in a location that acknowledges the historic trauma of residential schools;
 
@@ -314,7 +314,7 @@ c. Concluded, where it is determined that the Nation Student no longer requires 
 
 # 12. STUDENT SAFETY
 
-## 12.1. The Board will share with the Nation and policies, schools’ code of conduct, and other appropriate measures to create a safe learning environment, including safety from racism (including students, student’s families, and staff), discrimination, indifference, bias, marginalization, bullying and stereotyping for all students attending the School(s).  Upon request by either party, the Parties will meet to work to revise these policies in the best interests of Nation children.
+## 12.1. The Board will share with the Nation relevant policies, schools’ code of conduct, and other appropriate measures to create a safe learning environment, including safety from racism (including students, student’s families, and staff), discrimination, indifference, bias, marginalization, bullying and stereotyping for all students attending the School(s).  Upon request by either party, the Parties will meet to work to revise these policies in the best interests of Nation children.
 
 ## 12.2. Programming will be offered to all children to avoid marginalization and separation based on race.  Indigenous programming will be offered as a part of the standard curriculum for all students and Malahat students will be fully included in the broader curriculum rather than separated.
 
@@ -322,7 +322,7 @@ c. Concluded, where it is determined that the Nation Student no longer requires 
 
 ## 13.1. The Board, in cooperation with the Nation, agrees to promote a greater awareness and inclusion of and respect by all School District staff and contractors for the Nation’s unique language, culture and history through its policies, practices, plans, curriculum and instruction.   The Board will provide annual updates on the progress of this endeavor.
 
-## 13.2. As per the BC Tripartite Education Agreement, at least one non-instructional day per year will be focused on enhancing Nations Students outcomes commencing in the 2020/21 School Year. This will be structured after consultation and cooperation with the Nation.
+## 13.2. As per the BC Tripartite Education Agreement, at least one non-instructional day per year will be focused on enhancing Nations Students outcomes commencing on the year this document is signed. This will be structured after consultation and cooperation with the Nation.
 
 ## 13.3. The Board will ensure that the Nation has an opportunity to be meaningfully involved in the School District’s recruitment and hiring process for personnel, and in particular those positions that have a significant impact on the Nation Students, including, Nations Support Workers, Indigenous District Principals, Indigenous Education Coordinators, classroom teachers, principals and vice-principals.
 
@@ -412,7 +412,7 @@ d. measures of success of Nation Students through aggregate results for achievem
 
 ## 16.4. The Parties will encourage functions and meetings, such as parent-teacher interviews, to be held in the community.
 
-## 16.5. The LEA Working Group will meet once a month, while the education liaison will meet weekly with school representatives to review student progress.
+## 16.5. The LEA Working Group will meet once a month during the school year, while the education liaison will meet weekly with school representatives to review student progress.
 
 ## 16.6. The Parties agree to establish an annual graduation ceremony will occur including children graduating from preschool/daycare to Kindergarten, 7th to 8th grade and 12th grade.
 
@@ -454,7 +454,7 @@ b. a Nation Student has transferred to an indigenous School or a BC Independent 
 
 a. If a student attends less than 50% of the school year, the Nation will retain $2,000.00 per student with a minimum amount of $5,000.00 to be placed in the Early Leaver Fund.
 
-b. In the event there are 3 or more Early Leavers in a given year the LEA oversight committee will convene analyze why this occurred and do everything in its power to prevent reoccurrence.
+b. In the event there are 3 or more Early Leavers in a given year the LEA Oversight Team will convene analyze why this occurred and do everything in its power to prevent reoccurrence.
 
 ## 17.10. The Parties agree that additional services or programs not contemplated by this Agreement may be provided by the Board through agreement by the Parties on the terms and costs for such service(s) and/or program(s).
 
@@ -496,17 +496,17 @@ d. A requirement the LEA Working Group prepare an annual report to present to th
 
 # 19. DISPUTE RESOLUTION
 
-## 19.1. If there is a dispute between the Parties with respect to any matter arising from this    Agreement or relating to the interpretation and application of this Agreement, the Parties agree to use their best efforts to resolve such disputes in a reasonable and timely manner and in good faith.
+## 19.1. If there is a dispute between the Parties with respect to any matter arising from this Agreement or relating to the interpretation and application of this Agreement, the Parties agree to use their best efforts to resolve such disputes in a reasonable and timely manner and in good faith.
 
-## 19.2. In the event that the dispute is still unresolved after the efforts described in §18.1, the parties agree that the following dispute resolution process will be used:
+## 19.2. In the event that the dispute is still unresolved after the efforts described in §19.1, the parties agree that the following dispute resolution process will be used:
 
 a. One party Must provide notice in writing to the other party indicating that it intends to use the dispute resolution process to resolve a dispute and includes details of the dispute at issue.
 
-b. Within five (5) business days of the notice described in 18.2.1 being provided, or such further period agreed to by the parties in writing, representatives of each party with decision-making authority regarding the dispute will attempt to meet a final time to resolve the dispute.
+b. Within five (5) business days of the notice described in 19.2(b) being provided, or such further period agreed to by the parties in writing, representatives of each party with decision-making authority regarding the dispute will attempt to meet a final time to resolve the dispute.
 
-c. If, within ten (10) business days after the meeting described in §18.2.2 has occurred or if either party refuses to participate, either party may refer the dispute to mediation by providing written notice to the other party of such referral.
+c. If, within ten (10) business days after the meeting described in §18.2(b) has occurred or if either party refuses to participate, either party may refer the dispute to mediation by providing written notice to the other party of such referral.
 
-d. The parties may jointly appoint a mutually acceptable mediator.  If the parties are unable to agree upon the appointment of a mediator within ten (10) business days after the notice described in §18.2.3, the parties agree to apply to the Mediate BC Society or such other organization or person agreed to by the parties in writing, which will appoint a mediator while taking into account:
+d. The parties may jointly appoint a mutually acceptable mediator.  If the parties are unable to agree upon the appointment of a mediator within ten (10) business days after the notice described in §18.2(c) the parties agree to apply to the Mediate BC Society or such other organization or person agreed to by the parties in writing, which will appoint a mediator while taking into account:
 
 >(1) The need for the mediator to be neutral and independent,
 
@@ -614,11 +614,11 @@ The following definitions apply to the Agreement:
 
 **"Dogwood Certificate or Diploma"** means the British Columbia Certificate of Graduation that is awarded by the Minister to a student upon successful completion of the provincial graduation requirements, as set out in the provincial Graduation Program and, for greater clarity, does not include an Adult Dogwood.
 
-**"Early Leaver Prevention Plan"** means a plan of student supports, services or accommodations developed and implemented, where parental consent has been provided, in a manner consistent with the Attendance Protocol and with the purpose of re-engaging the Nation Student and re-establishing strong attendance. The Plan applies where a Nation Student misses more than 10% of scheduled classes in a month and will address academic, behavioural, attendance and any other relevant issues and will include interventions to be undertaken by the school, Nation and Parents.
+**"Early Leaver Prevention Plan"** means a plan of student supports, services or accommodations developed and implemented, where parental consent has been provided, in a manner consistent with the Attendance Protocol and with the purpose of re-engaging the Nation Student and re-establishing strong attendance. The Plan applies where a Nation Student misses more than 10% of scheduled classes in a month and will address academic, behavioral, attendance and any other relevant issues and will include interventions to be undertaken by the school, Nation and Parents.
 
-**"Early Leavers"** eans a student who has missed at least 50% of a term or semester.
+**"Early Leavers"** means a student who has missed at least 50% of a term or semester.
 
-**"Early Leavers Fund"** eans a fund administered by the Nation pursuant to their Financial Administrative Law with input from the District that will be used exclusively for supporting re-entry and/or any and all alternative education options to give the student the best chance for success.
+**"Early Leavers Fund"** means a fund administered by the Nation pursuant to their Financial Administrative Law with input from the District that will be used exclusively for supporting re-entry and/or any and all alternative education options to give the student the best chance for success.
 
 **"Evergreen (School Completion) Certificate"** is a school leaving certificate intended to celebrate success in learning that is not recognized in a Certificate of Graduation (Dogwood Diploma). It is used to recognize the accomplishments of students with special needs and an Individual Education Plan, who have met the goals of their education program, other than graduation (and not all students with special needs should be in an Evergreen Certificate Program.)  The Evergreen Certificate is not a graduation credential; students who receive an Evergreen have not graduated. The Evergreen represents the completion of personal learning goals but does not represent graduation.
 
@@ -679,7 +679,7 @@ and be provided meaningful opportunity to provide input into the assessment and 
 
 **"Tuition Funding"** means the Tuition Funding received by the Nation from Indigenous Services Canada for the education of Nation Students in the School District who are on the Nominal Roll, which is invoiced for by the Board as per the Nation Student Rates established by the Ministry annually and as determined by the snapshot date of September 30th.
 
-**"Vulnerable Student"** means a student who has been identified as finding learning more challenging based on the following factors: not meeting learning outcomes, significant absence from school, not transitioning to the next grade, failing courses, behaviour issues, under suspension, not at grade level and/or is a child in care.
+**"Vulnerable Student"** means a student who has been identified as finding learning more challenging based on the following factors: not meeting learning outcomes, significant absence from school, not transitioning to the next grade, failing courses, behavior issues, under suspension, not at grade level and/or is a child in care.
 
 # APPENDIX B – Assessment Protocol
 
